@@ -31,6 +31,10 @@
     "Description": "Median over 123 participants of the video span in the events (video index + 101 onset to 102 offset).",
     "Units": "s"
   },
+  "presented_duration_alt_s": {
+    "Description": "Duration of the other version of the clip where two versions were shown: clip 22 (The Shawshank Redemption) was 83.92 s for sub-036 to sub-060 (25 participants), while presented_duration_s (75.80 s) is the version the other 98 saw. n/a for clips with one version.",
+    "Units": "s"
+  },
   "rights": {
     "Description": "Rights note: the clips are excerpts of third-party films and are not part of this dataset."
   }
