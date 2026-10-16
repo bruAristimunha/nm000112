@@ -50,15 +50,13 @@ When using this dataset, please cite:
 
 1. Chen, J., Wang, X., Huang, C., Hu, X., Shen, X., & Zhang, D. (2023). A Large Finer-grained Affective Computing EEG Dataset. Scientific Data, 10, 740. https://doi.org/10.1038/s41597-023-02650-w
 
-2. Synapse Platform: https://www.synapse.org/#!Synapse:syn50614194
-
-3. The dataset is available at the Synapse platform repository.
+2. The data: FACED, Synapse project syn50614194, https://doi.org/10.7303/syn50614194 (DataCite creator TSINGHUA_EMOTION_BCI; the project was created on 2023-01-05 by the Synapse account THU-EMOTION-BCI). The paper's "Data Records" section names this project as the FACED repository, and the project's own wiki names the paper above as its data descriptor.
 
 **Data curators:**
 Pierre Guetschel (BIDS conversion)
 
 Original data collection team:
-- Jingjing Chen, Xiaobin Wang, Chen Huang, Xin Hu, Xinke Shen, Dan Zhang (authors of the data descriptor above)
+- Jingjing Chen, Xiaobin Wang, Chen Huang, Xin Hu, Xinke Shen, Dan Zhang (Tsinghua University; authors of the data descriptor above, which credits the data collection, "Investigation", to Xiaobin Wang and Xin Hu)
 
 
 ---

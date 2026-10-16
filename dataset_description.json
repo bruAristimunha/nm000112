@@ -30,7 +30,8 @@
   ],
   "SourceDatasets": [
     {
-      "DOI": "https://doi.org/10.1038/s41597-023-02650-w"
+      "DOI": "doi:10.7303/syn50614194",
+      "URL": "https://www.synapse.org/Synapse:syn50614194"
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000112",
